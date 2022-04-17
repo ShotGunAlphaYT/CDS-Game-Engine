@@ -1,0 +1,14 @@
+html {
+    background-color: darkslategrey;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#create_project {
+    display: none;
+    top: 50%;
+    left: 50%;
+}
+#search-projects{
+    width: 90%;
+}

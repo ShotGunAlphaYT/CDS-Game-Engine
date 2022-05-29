@@ -1,0 +1,9 @@
+li {
+    display: none;
+}
+
+ul:hover li{display: none;}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
